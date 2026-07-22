@@ -13,7 +13,6 @@ This repository documents my CAD learning journey using Autodesk Fusion. It cont
 ## Projects
 Each project README.md file includes:
 - Design objective
-- CAD model
 - Summary reflection
 - Daily Reflection
 - Challenges encountered
