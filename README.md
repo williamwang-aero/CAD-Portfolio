@@ -10,14 +10,32 @@ This repository documents my CAD learning journey using Autodesk Fusion. It cont
 - Aerospace-Minor-Projects/Project/CAD File, Images, README.md
 - Mechanical-Minor-Projects/Project/CAD File, Images, README.md
 
-## Each Project Includes
-
+## Projects
+Each project README.md file includes:
 - Design objective
 - CAD model
-- Personal reflection
+- Summary reflection
+- Daily Reflection
 - Challenges encountered
 - Lessons learned
 - Future improvements
+
+You will also find:
+- CAD file
+- Screenshots
+
+## Learning Models
+Each learning model README.md file includes:
+- Design objective
+- Summary reflection
+- Daily reflection
+- Challenges encountered
+- Lessons learned
+- Future improvements
+
+You will also find:
+- CAD file
+- Screenshots
 
 ## Goals
 
